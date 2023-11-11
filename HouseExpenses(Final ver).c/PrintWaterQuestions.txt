@@ -1,0 +1,28 @@
+1.How many showers are taken each day in your household?
+Enter the number of showers:	
+2.What is the average length (in minutes) of each shower?
+Enter how many minutes here:
+3.What is the flow rate (gallons per minute) of your showerhead?
+Enter 1 if you have a standard showerhead(after 1994) or 2 for an old showerhead
+4.Total number of baths taken each month?
+Enter your choice:
+5.Now this is a interesting step, you need to calculate how much liters your bath can hold
+Press 1 to begin
+To calculate start the water and use a timer to see much time it takes to fill up your bath
+Enter the time here:
+6.Number of times you flush a toilet in your house per day.
+Enter here:
+7.How many liters does your toilet use per flush?
+Enter litters:
+8.How many times each day do you use faucets to shave, brush teeth, wash hands and face
+Enter here:
+9.How many minutes does the water run during each use?
+Enter you choice here:
+10.Do you wash the dishes by hand?  1.Yes 2.No
+Enter here:
+11.How many minutes does the water run in order to clean by hand those dishes?(Enter 0 if you use dishwasher)
+Enter here:
+12.If you instead use a dishwasher, how many times do you use it in a day? (0 for no dishwasher)
+Enter here:
+
+

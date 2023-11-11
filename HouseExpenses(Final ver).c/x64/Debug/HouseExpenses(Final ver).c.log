@@ -1,0 +1,6 @@
+﻿  HouseExpenses(Final ver).c.cpp
+C:\Users\enghe\OneDrive\Desktop\C\House Expenses\HouseExpenses(Final ver).c\HouseExpenses(Final ver).c.cpp(335,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\enghe\OneDrive\Desktop\C\House Expenses\HouseExpenses(Final ver).c\HouseExpenses(Final ver).c.cpp(420,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\enghe\OneDrive\Desktop\C\House Expenses\HouseExpenses(Final ver).c\HouseExpenses(Final ver).c.cpp(421,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\enghe\OneDrive\Desktop\C\House Expenses\HouseExpenses(Final ver).c\HouseExpenses(Final ver).c.cpp(422,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  HouseExpenses(Final ver).c.vcxproj -> C:\Users\enghe\OneDrive\Desktop\C\House Expenses\x64\Debug\HouseExpenses(Final ver).c.exe

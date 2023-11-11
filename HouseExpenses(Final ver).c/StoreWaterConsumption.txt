@@ -1,0 +1,14 @@
+Total Water Consumption in a day: 768
+Total Water Consumption in a month: 36540
+
+Individual consume: 
+
+Shower consumption: 108
+Toilet: 50
+Faucet: 100
+Dishes: 360
+Laundry: 150
+
+
+Total money spent in a day: 6.144000
+Total money spent in a month: 184.320000

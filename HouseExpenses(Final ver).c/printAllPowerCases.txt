@@ -1,0 +1,18 @@
+Now choose how would you like the consumtpion to be calculated
+There are 3 cases, 1.Average 2.Worst case 3.Best case
+If you pick average, the program will calculate the total consumption like this:
+Let's say your refrigerator consumes between 100-300wats/hour, for this device the
+program will calculate the average between these two values so: (100 + 300) / 2 = 200.
+It will select the average value for each electronic device consumption and add it to
+the total. So total = 200. Then it will select your next device, calculate the average
+add it to the total and so on..
+
+If you pick the worst case, the program will select the highest consumption of your device
+throughout an hour(worst case). So if you have a TV that consumes between 200-600wats in an 
+hour, the program will select the value 600, and add it to the total and then it will do the
+same with the next device and so on..
+
+If you pick the best case, the program will select the samllest consumption of your device, and
+add it to the total.
+
+Enter your choice here:

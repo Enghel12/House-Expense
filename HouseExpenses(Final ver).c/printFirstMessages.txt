@@ -1,0 +1,8 @@
+The purpose of this program is to help you do the following:
+1.Calculate the Electricity and water consumption of your house
+2.Calculate how much money are spent on each of these utilities
+3.Learn how you can save more money throughout a month
+
+But first choose which utility you are interested in:
+1.Electricity 2.Water
+

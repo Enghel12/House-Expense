@@ -1,0 +1,71 @@
+
+Refrigerators:1
+Ovens:1
+Dishwashers:1
+Washing Machines:1
+Hair Dryers:1
+Coffee Makers:1
+Toasters:1
+Vaccum Cleaners:1
+Irons:1
+TVs:1
+Computers:1
+Monitors:1
+GameConsoles:1
+Lightning Bulbs:1
+Desk lamps:1
+Air Conditioners:1
+Electronic heaters:1
+Ceiling Fans:1
+Phone Chargers:1
+Laptop Chargers:1
+Tablet Chargers:1
+1
+:1
+
+And Consumption: 
+
+Refrigerators:1
+
+Ovens:1
+
+Dishwashers:1
+
+Washing Machines:1
+
+Hair Dryers:1
+
+Coffee Makers:1
+
+Toasters:1
+
+Vaccum Cleaners:1
+
+Irons:1
+
+TVs:1
+
+Computers:1
+
+Monitors:1
+
+GameConsoles:1
+
+Lightning Bulbs:1
+
+Desk lamps:1
+
+Air Conditioners:1
+
+Electronic heaters:1
+
+Ceiling Fans:1
+
+Phone Chargers:1
+
+Laptop Chargers:1
+
+Tablet Chargers:1
+
+1
+:1

@@ -1,0 +1,9 @@
+For each device that will appear to the screen, you need to do the following:
+1.Enter how many you have
+2.Search the internet and enter the consumption in watt of that device
+To do that, search for the device brand and model on the internet
+Then find where it specifies the consumption in watt of the device and enter it
+If for instance, the program asks you to enter what is the consumption of a 
+refrigirator, and after you search on the internet and find that it consumes
+between 100-200wats in an hour, enter the value like this: 100-200w.
+Enter any number to begin:

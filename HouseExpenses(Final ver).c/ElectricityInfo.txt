@@ -1,0 +1,6 @@
+Welcome to the electricity section, the program will show you the following:
+.The total electricity consumption of all of your electronic devices thorughout an hour, a day and a month(in wats and kw)
+.How much money you spend on electricity each day and month
+.The top 5 devices that consume the most electricity so that you can start using them less to save money
+.A list which contains the consumption in KiloWats of each electronic device that you entered
+Press any number to begin:
