@@ -8,7 +8,7 @@ consumption.
 
 ## How it works
 
-To calculate the electricity consumption, the program expects the user to search the internet and look for the consumption in watt of each electronic device from the house. Then the user needs to manually enter the consumption of each electronic device. 
+To calculate the electricity consumption, the program expects the user to search the internet and look for the consumption in watt of each electronic device from the house. Then the user needs to manually enter the consumption of these electronic devices. 
 Then the program can start calculating the total consumption of electricity and show the results to the user.
 
 The process to calculate the water consumption is quite different and much simpler. The user just needs to tell the program how much he/she uses the shower, the toilet, the 
